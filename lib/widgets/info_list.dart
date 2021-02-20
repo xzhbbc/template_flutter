@@ -15,7 +15,7 @@ class InfoList extends StatelessWidget {
   final double paddingVertical;
 
   /// 点击事件
-  final Function() onTap;
+  final Function onTap;
   final TextStyle titleStyle;
   final TextStyle valueStyle;
 
